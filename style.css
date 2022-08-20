@@ -25,6 +25,7 @@
   border-bottom-right-radius: 2rem;
   outline: 0.5rem inset purple;
   outline-offset: 1rem;
+  line-height: 5rem;
 }
 .header {
   background-image: url(./img/bg.jpg);
@@ -91,9 +92,9 @@
   left: 50%;
   transform: translate(-50%, -50%);
   width: 50%;
-  height: 6rem;
+  height: 5rem;
   font-size: 2.5rem;
-  padding: 2rem;
+  /* padding: 2rem; */
   border-top-left-radius: 0.7rem;
   border-bottom-right-radius: 0.7rem;
   outline: 0.4rem inset rgb(98, 0, 98);
@@ -105,10 +106,10 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 30%;
-  height: 4rem;
+  width: 40%;
+  height: 5rem;
   font-size: 2.5rem;
-  padding: 1rem;
+  /* padding: 1rem; */
   border-top-left-radius: 0.7rem;
   border-bottom-right-radius: 0.7rem;
   outline: 0.4rem inset rgb(98, 0, 98);
@@ -123,7 +124,7 @@
   width: 50%;
   height: 6rem;
   font-size: 2.5rem;
-  padding-top: 2rem;
+  /* padding-top: 2rem; */
   background-color: black;
 }
 .bold {
